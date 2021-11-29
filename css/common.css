@@ -268,9 +268,7 @@ header .badges .badge {
   cursor: pointer;
 }
 
-
-
-/* FOOTER */
+/*FOOTER*/
 footer {
   background-color: #272727;
   border-top: 1px solid #333;
@@ -300,11 +298,11 @@ footer .menu li:last-child::before {
   display: none;
 }
 footer .menu li a {
-  color: #ccc;
+  display: block;
+  color: #CCC;
   font-size: 12px;
   font-weight: 700;
   padding: 15px;
-  display: block;
 }
 footer .menu li a.green {
   color: #669900;
@@ -339,6 +337,6 @@ footer .copyright {
   text-align: center;
   margin-top: 12px;
 }
-footer .logo{
+footer .logo {
   margin: 30px auto 0;
 }
