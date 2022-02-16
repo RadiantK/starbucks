@@ -8,8 +8,6 @@
 <br/>
 
 ### 사용 라이브러리
-<br/>
-
 - <a href="https://lodash.com/">Lodash</a>
 - <a href="https://greensock.com/gsap/">GSAP & ScrollToPlugin</a>
 - <a href="https://github.com/janpaepke/ScrollMagic">Scroll Magic</a>
