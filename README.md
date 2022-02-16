@@ -5,6 +5,8 @@
 
 ## 사용언어
 - JavaScript
+- HTML
+- CSS
 <br/>
 
 ### 사용 라이브러리
