@@ -15,4 +15,4 @@
 - <a href="https://github.com/janpaepke/ScrollMagic">Scroll Magic</a>
 - <a href="https://developers.google.com/youtube/iframe_api_reference?hl=ko">Youtube API</a>
 - <a href="https://swiperjs.com/get-started">Swiper</a>
-- <a href="https://lodash.com/">Lodash</a>
+
